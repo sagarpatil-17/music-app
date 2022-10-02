@@ -1,6 +1,6 @@
 [
-    {"membership": "1 Month Premium", "price":"49"},
-    {"membership": "3 Month Premium", "price":"149"},
-    {"membership": "6 Month Premium", "price":"249"},
-    {"membership": "1 Year Premium", "price":"449"}
+    {"membership1": "1 Month Premium", "price1":"49"},
+    {"membership2": "3 Month Premium", "price2":"149"},
+    {"membership3": "6 Month Premium", "price3":"249"},
+    {"membership4": "1 Year Premium", "price4":"449"}
 ]
