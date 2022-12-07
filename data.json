@@ -1,0 +1,29 @@
+{
+    "upcoming_events": {
+        "24": [
+            {
+                "id": "24",
+                "webinar_name": "UNT - How to Choose the Degrees of the Future in STEM?",
+                "webinar_host_name": "University of North Texas",
+                "webinar_topics": "How to Choose the Degrees of the Future in STEM?",
+                "webinar_description": "Staff from University of North Texas will explain in detail about how to Choose the Degrees of the Future in STEM?",
+                "webinar_img": "",
+                "webinar_date": "2021-02-12",
+                "webinar_time": "6:30 PM (IST)",
+                "webinar_link": "0",
+                "webinar_display_link": "",
+                "webinar_display_description": "",
+                "default_attend_count": "49",
+                "webinar_live": "1",
+                "type": "WEBINAR",
+                "fair_id": null,
+                "status": "1",
+                "created_by": null,
+                "updated_by": null,
+                "date_created": "2021-02-09 13:39:48",
+                "date_updated": "2021-02-09 13:39:48",
+                "tokbox_token_id": "179"
+            }
+        ]
+    }
+}
